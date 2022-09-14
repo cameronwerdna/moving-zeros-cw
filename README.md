@@ -1,0 +1,2 @@
+solution for codewars problem "Moving Zeros To The End".
+function takes in an array and divies the array into two arrays- one containing the zeros and the other without. it then returns the concatenated arrays, with the zeros at the end. 
